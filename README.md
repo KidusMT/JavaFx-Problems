@@ -1,5 +1,6 @@
 # JavaFx-Problems
 
+<br><h3>1)</h3>
 <p align="center">
   <img src="images/lab6.prob1.png" width="70%" />
 </p>
